@@ -1,8 +1,8 @@
-FIGUI Games - IGUIDI QUIZ
+FIGUI Games - QUIZ
 
 Description
 
-FIGUI Games IGUIDI QUIZ is a Java-based GUI quiz game that challenges players with multiple levels of questions. The game provides interactive features such as answer validation, level-based progression, and a visually appealing interface built with Swing. Players can unlock levels and also access additional integrated mini-games.
+FIGUI Games QUIZ is a Java-based GUI quiz game that challenges players with multiple levels of questions. The game provides interactive features such as answer validation, level-based progression, and a visually appealing interface built with Swing. Players can unlock levels and also access additional integrated mini-games.
 
 Features
 
